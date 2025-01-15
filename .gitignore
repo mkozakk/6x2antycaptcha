@@ -1,0 +1,21 @@
+# Podstawowe ignorowane pliki/katalogi
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+.env
+.venv
+venv/
+.envrc
+.idea/
+.vscode/
+
+
+
+data/
+
